@@ -1,0 +1,2501 @@
+{
+    "data": {
+        "aggregatedDiscountInfo": null,
+        "area": "Marathahalli",
+        "areaPostalCode": "560037",
+        "areaSlug": "marathahalli",
+        "availability": {
+            "closeMessage": null,
+            "closedReason": null,
+            "nextCloseMessage": null,
+            "nextCloseTime": "2019-10-11 23:00:00",
+            "nextOpenMessage": null,
+            "nextOpenTime": null,
+            "nextOpenTimeMessage": null,
+            "opened": true,
+            "visibility": true
+        },
+        "avgRating": 4.1,
+        "avgRatingString": "4.1",
+        "badges": {
+            "imageBased": [],
+            "textBased": []
+        },
+        "bgColor": null,
+        "brandImageId": null,
+        "cafe": false,
+        "city": "Bangalore",
+        "cloudinaryImageId": "ptg02q5ysh5k6xc6dree",
+        "costForTwo": 20000,
+        "costForTwoMsg": "₹200 for two",
+        "coverImageId": null,
+        "cuisines": [
+            "Snacks",
+            "Street Food",
+            "Chaat"
+        ],
+        "experiments": [
+            {
+                "experimentId": "menu_via_timeline",
+                "variantId": "true"
+            },
+            {
+                "experimentId": "MENU_MERCH_AB",
+                "variantId": "true"
+            }
+        ],
+        "favorite": false,
+        "feeDetails": {
+            "amount": "0",
+            "fees": [
+                {
+                    "fee": 0,
+                    "message": "",
+                    "name": "fix"
+                },
+                {
+                    "fee": 0,
+                    "message": "",
+                    "name": "distance"
+                },
+                {
+                    "fee": 0,
+                    "message": "",
+                    "name": "time"
+                },
+                {
+                    "fee": 0,
+                    "message": "",
+                    "name": "special"
+                }
+            ],
+            "restaurant_id": 25225,
+            "title": "Delivery Charge",
+            "total_fee": 0
+        },
+        "fssaiLicenseNo": null,
+        "id": "25225",
+        "isNew": false,
+        "isVeg": true,
+        "labels": [
+            {
+                "message": "null",
+                "title": "Timings"
+            },
+            {
+                "message": "Sy no 4 shop no 3 thubarahalli village varthur main road next to spectra sypress Bangalore 560066",
+                "title": "Address"
+            },
+            {
+                "message": "Snacks,Street Food,Chaat",
+                "title": "Cuisines"
+            }
+        ],
+        "latLong": "12.955921,77.71769500000005",
+        "locality": "thubarahalli village",
+        "logo": null,
+        "menu": {
+            "collectionsV2": null,
+            "items": {
+                "17523473": {
+                    "category": "Snacks",
+                    "cloudinaryImageId": "il0mohtlycolccvywfkn",
+                    "cropChoices": 2,
+                    "description": "Savoury snak from the streets of Mumbai made with puffed rice, tossed with potatoes, onion, tomato & tangy chutneys",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523473,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Bhel Puri",
+                    "price": 6000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "BESTSELLER",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523474": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "zvf5wd9oagt3qizayn65",
+                    "cropChoices": 2,
+                    "description": "Combination of papdi, sev, boiled potatoes, moong beans, onion & assortment of sweet, spicy, tangy chutneys makes it simply irresistible.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523474,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Sev Puri",
+                    "price": 6000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "BESTSELLER",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523475": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "mhprs1noqsjiiwl2hezz",
+                    "cropChoices": 2,
+                    "description": "Golgappas topped with various chutneys, masala & yogurt, Chilled & refreshing.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523475,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Dahi Puri",
+                    "price": 5000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "BESTSELLER",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523476": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "v3tydk7vw7hapre9ee5v",
+                    "cropChoices": 2,
+                    "description": "Lip smacking chaat recipe made with samosa, chana masala, chutneys & spices.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523476,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Samosa Chaat",
+                    "price": 7500,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "BESTSELLER",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523477": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "Served with spicy chole, crumbled kachori, yogurt, mint & tamarind chutney.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523477,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Kachori Chaat",
+                    "price": 7500,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "MUST TRY",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523478": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "qgoll9nuvpqtorybto2b",
+                    "cropChoices": 2,
+                    "description": "Old Delhi favourite. Delicious & fluffy bhallas ( 2 pc) drizzled with sweetened curd, tangy chutneys & chaat masala.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523478,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Dahi Bhalla Chaat",
+                    "price": 7000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523480": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "hlgfm0enqlntqclyb481",
+                    "cropChoices": 2,
+                    "description": "Crispy flat puris, boiled chickpeas, boiled potatoes tossed in a blend of chutneys, sweetened curd & sev.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523480,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Papdi Chaat",
+                    "price": 6500,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "BESTSELLER",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523481": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "gievc0h0kpsqm8z6mvhh",
+                    "cropChoices": 2,
+                    "description": "Hailed as the king of kachoris. Crispy large puri stuffed with bhalla, dal, potato, papdi, chana, masalas, hung curd, sweet tamarind chutney & spicy mint chutney.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523481,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Raj Kachori",
+                    "price": 8000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "MUST TRY",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523482": {
+                    "category": "Quick Bites",
+                    "cloudinaryImageId": "plomtkf0ekfedrqxzpnv",
+                    "cropChoices": 2,
+                    "description": "",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523482,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Tokri Chaat",
+                    "price": 8500,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523485": {
+                    "category": "Bombay Wali Chaat",
+                    "cloudinaryImageId": "r5wpbc6dsjbykdq6pfkw",
+                    "cropChoices": 2,
+                    "description": "Iconic dish from Mumbai. Bhaji made of mashed potatoes, vegetables on a tawa served with butter toasted Pav, onion & lemon.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523485,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Pav Bhaji",
+                    "price": 12500,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "BESTSELLER",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523488": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "cdefuvm79tbrve32vian",
+                    "cropChoices": 2,
+                    "description": "Needs no introduction. 2 pieces of Bhatura served with delicious chole, pickle, onion & lemon.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523488,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Chole Bhature",
+                    "price": 13000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "BESTSELLER",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523489": {
+                    "category": "Bombay Wali Chaat",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "2 pc of butter toasted Pav",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523489,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Extra Pav",
+                    "price": 3000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523494": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "4 pc Samosa & cold drink (250 mL)",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523494,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Samosa Party",
+                    "price": 9000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "17523495": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "4 pc Moong Dal Kachori & cold drink (250 mL)",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 17523495,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Kachori Party",
+                    "price": 11000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "23299391": {
+                    "category": "Snacks",
+                    "cropChoices": 2,
+                    "description": "",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 23299391,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Jalebi",
+                    "price": 4000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "MUST TRY",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": [
+                            {
+                                "group_id": "2099908",
+                                "name": "Quantity",
+                                "variations": [
+                                    {
+                                        "default": 1,
+                                        "id": "11604373",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "name": "100 grams",
+                                        "order": 999,
+                                        "price": 0,
+                                        "variant_group_id": "2099908"
+                                    },
+                                    {
+                                        "default": 0,
+                                        "id": "11604374",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "name": "250 grams",
+                                        "order": 998,
+                                        "price": 6000,
+                                        "variant_group_id": "2099908"
+                                    },
+                                    {
+                                        "default": 0,
+                                        "id": "11604375",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "name": "500 grams",
+                                        "order": 997,
+                                        "price": 16000,
+                                        "variant_group_id": "2099908"
+                                    },
+                                    {
+                                        "default": 0,
+                                        "id": "11604376",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "name": "1Kg",
+                                        "order": 996,
+                                        "price": 36000,
+                                        "variant_group_id": "2099908"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "35065631": {
+                    "category": "XL Combos",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "20 pc Vada Pav served with green chilly, special in house groundnut garlic chutney.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065631,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Vada Pav XL Combo",
+                    "price": 60000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065632": {
+                    "category": "XL Combos",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "20 pc Samosas served with tangy tamarind & mint chutney.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065632,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Samosa XL Combo",
+                    "price": 45000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065633": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "3 whole wheat pooris served with aloo bhaji, pickle, onion, 1 pc Moong Dal kachori & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065633,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Poori Bhaji-Kachori Meal Combo",
+                    "price": 14000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065634": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "nycqwlgpqnncaxd3dwar",
+                    "cropChoices": 2,
+                    "description": "Bhel Puri, 1 pc samosa & cold drink (250 mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065634,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Bhel Puri-Samosa Snack Combo",
+                    "price": 11000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065635": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "1 pc Moong Dal kachori & cold drink (250 mL)",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065635,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Kachori Snack Combo",
+                    "price": 5000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065636": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "1 pc Samosa & cold drink (250 mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065636,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Samosa Snack Combo",
+                    "price": 4500,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065637": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "3 whole wheat pooris served with aloo bhaji, pickle, onion, 1 pc Samosa & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065637,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Poori Bhaji-Samosa Meal Combo",
+                    "price": 13500,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065638": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "3 whole wheat pooris served with aloo bhaji, pickle, onion, 2 pc Dahi Bhalla & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065638,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Poori Bhaji-Dahi Bhalla Meal Combo",
+                    "price": 18500,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065639": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "Samosa served with beaten yogurt, mint & tamarind chutney topped with chaat masala & roasted jeera powder.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065639,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Dahi Samosa Chaat",
+                    "price": 7500,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "MUST TRY",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065640": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "k4tijhl2wybnz8uifal8",
+                    "cropChoices": 2,
+                    "description": "Crisp plate of pani puri/puchkas made of atta & rava. Served with black chickpeas, boiled potato filling & chilled sweet, spicy & tangy water",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065640,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Atta Golgappa (6pc)",
+                    "price": 4000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065641": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "Dahi vadas mixed with crunchy papdi, sweet tangy tamarind chutney & spicy mint chutney make this an authentic Delhi style chaat.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065641,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Bhalla Papdi Chaat",
+                    "price": 7000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "MUST TRY",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065642": {
+                    "category": "Snacks",
+                    "cloudinaryImageId": "doifta5w2wptu6eopv2q",
+                    "cropChoices": 2,
+                    "description": "The most favourite tea time snack across India. Served with tangy tamarind & mint chutney.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065642,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Samosa (1pc)",
+                    "price": 2500,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065643": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "r0joclwmcwoeeup5pp5d",
+                    "cropChoices": 2,
+                    "description": "Crisp plate of pani puri/puchkas made of sooji. Served with black chickpeas, boiled potato filling & chilled sweet, spicy & tangy water.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065643,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Sooji Golgappa ( 6pc)",
+                    "price": 5000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "BESTSELLER",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065644": {
+                    "category": "Snacks",
+                    "cloudinaryImageId": "hhiayveugqsltbusutaj",
+                    "cropChoices": 2,
+                    "description": "Authentic Indian snack from Rajasthan. Stuffed with ground dal sauteed with spices, served with tangy tamarind & mint chutney.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065644,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Kota Moong Dal Kachori (1pc)",
+                    "price": 3000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065645": {
+                    "category": "Snacks",
+                    "cloudinaryImageId": "rngicu1zcchir00at68w",
+                    "cropChoices": 2,
+                    "description": "The most popular street food from Mumbai. Served with green chilly, special in house groundnut garlic chutney.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065645,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Vada Pav (1pc)",
+                    "price": 3000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065646": {
+                    "category": "Accompaniments",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065646,
+                    "inStock": 0,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Minute Maid Mango (250ml)",
+                    "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                    "price": 2500,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065647": {
+                    "category": "Accompaniments",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065647,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Maaza (250ml)",
+                    "price": 2500,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065648": {
+                    "category": "Accompaniments",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065648,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Thums Up (250ml)",
+                    "price": 2500,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065649": {
+                    "category": "Accompaniments",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065649,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Pulpy Orange (250ml)",
+                    "price": 2500,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065650": {
+                    "category": "Accompaniments",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065650,
+                    "inStock": 0,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Coke Zero (300ml)",
+                    "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                    "price": 4000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065651": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "Pav bhaji served with onion & lemon, bhel puri & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065651,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Pav Bhaji-Bhel Puri Meal Combo",
+                    "price": 20000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065652": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "nmwp6yvqnwzuzegygbya",
+                    "cropChoices": 2,
+                    "description": "Bhel Puri, 1 pc Vada Pav & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065652,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Bhel Puri-Vada Pav Snack Combo",
+                    "price": 11000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065653": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "rc2m7ucluzaqqynm5uj1",
+                    "cropChoices": 2,
+                    "description": "Tawa pulav served with raita, 2 pc Dahi bhalla & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065653,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Tawa Pulav-Dahi Bhalla Meal Combo",
+                    "price": 21500,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065654": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "uzjcyy9alrfjuvscxcta",
+                    "cropChoices": 2,
+                    "description": "Tawa pulav served with raita, 1 pc vada pav & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065654,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Tawa Pulav-Vada Pav Meal Combo",
+                    "price": 17000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065655": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "qlhp2oe6msy6j9ardcsf",
+                    "cropChoices": 2,
+                    "description": "Tawa pulav served with raita, bhel puri & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065655,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Tawa Pulav-Bhel Puri Meal Combo",
+                    "price": 20500,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "MUST TRY",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065656": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "e9uqdlesj5zhwihnsd3f",
+                    "cropChoices": 2,
+                    "description": "2 pc bhatura served with punjabi chole, 2 pc of dahi bhalla & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065656,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Chole Bhatura-Dahi Bhalla Combo",
+                    "price": 21000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "MUST TRY",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065657": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "Pav bhaji served with onion & lemon, bhel puri & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065657,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Pav Bhaji-Bhel Puri Meal Combo ",
+                    "price": 20000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065658": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "Pav bhaji served with onion & lemon, 1 pc samosa & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065658,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Pav Bhaji-Samosa Meal Combo",
+                    "price": 16000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065659": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "ssdvpc976maxro1sfya7",
+                    "cropChoices": 2,
+                    "description": "Pav bhaji served with onion & lemon, 2 pc dahi bhalla & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065659,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Pav Bhaji-Dahi Bhalla Meal Combo",
+                    "price": 21000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "MUST TRY",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065660": {
+                    "category": "Budget Combos",
+                    "cloudinaryImageId": "h1h3h0cnpspsqwragjbk",
+                    "cropChoices": 2,
+                    "description": "2 pc bravura served with Punjabi chole, 1 pc samosa & cold drink (250mL).",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065660,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Chole Bhatura-Samosa Meal Combo",
+                    "price": 17000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065661": {
+                    "category": "Accompaniments",
+                    "cloudinaryImageId": "",
+                    "cropChoices": 2,
+                    "description": "",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065661,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Coca Cola (250ml)",
+                    "price": 2500,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065662": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "riwjqr7acktnfli3c1jg",
+                    "cropChoices": 2,
+                    "description": "Traditional breakfast from North India. 3 whole wheat pooris served with aloo bhaji, pickle & onion.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065662,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Poori Bhaji",
+                    "price": 10500,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "MUST TRY",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065663": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "ssch2xbudz7btg5dqaoa",
+                    "cropChoices": 2,
+                    "description": "Crunchy & succulent tikkis made of potatoes, roasted chana dal & spices. Served with tangy tamarind & spciy mint chutney.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065663,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Desi Ghee Aloo Tikki",
+                    "price": 8500,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "BESTSELLER",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065664": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "agn5fd3wxlfnhlpfroot",
+                    "cropChoices": 2,
+                    "description": "Powerhouse of flavours-packed with variety of textures & flavours. Fried potato basket stuffed with bhalla, dal, potato, papdi, chana, masalas, hung curd, sweet tamarind chutney & spciy mint chutney.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065664,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Lachha Tokri Chaat",
+                    "price": 9500,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "MUST TRY",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065665": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "rhbpolzveaob7nqp1s0d",
+                    "cropChoices": 2,
+                    "description": "Iconic street food from the holy town of Mathura. Moong dal kachoris served with spicy potato curry",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065665,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Kachori Aloo Sabji",
+                    "price": 8000,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065666": {
+                    "category": "Bombay Wali Chaat",
+                    "cloudinaryImageId": "uqwp4nfrxbdinrtmwmub",
+                    "cropChoices": 2,
+                    "description": "Pav Bhaji served with grated cheese, onion & lemon.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065666,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Pav Bhaji with Cheese",
+                    "price": 14000,
+                    "recommended": 0,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "MUST TRY",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065667": {
+                    "category": "Delhi wali Chaat",
+                    "cloudinaryImageId": "funrafybeeqknkom2hzl",
+                    "cropChoices": 2,
+                    "description": "Potato cubes fried to a crisp in desi ghee, topped with spices, chutneys & lemon juice.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065667,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Delhi Aloo Chaat",
+                    "price": 7500,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                },
+                "35065668": {
+                    "category": "Bombay Wali Chaat",
+                    "cloudinaryImageId": "omkayeqmf6wqm79y3sq2",
+                    "cropChoices": 2,
+                    "description": "Spicy street style pulav made with basmati rice, vegetables, pav bhaji masala on a tawa with desi ghee. Served with onion-tomato raita.",
+                    "displayOrder": 0,
+                    "enabled": 1,
+                    "id": 35065668,
+                    "inStock": 1,
+                    "isPopular": 0,
+                    "isVeg": 1,
+                    "itemDiscount": 0,
+                    "itemScore": 0,
+                    "name": "Mumbai style Tawa Pulav",
+                    "price": 12500,
+                    "recommended": 1,
+                    "restId": "25225",
+                    "ribbon": {
+                        "bottomBackgroundColor": "#b02331",
+                        "text": "BESTSELLER",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c"
+                    },
+                    "showMC": 0,
+                    "variants_new": {
+                        "exclude_list": [],
+                        "variant_groups": []
+                    }
+                }
+            },
+            "layoutType": "normal",
+            "menuCarousels": null,
+            "widgets": [
+                {
+                    "collapsible": false,
+                    "entities": [
+                        {
+                            "id": 17523482,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065634,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065652,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065653,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065654,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065655,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065659,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065660,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065656,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065668,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065667,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 17523488,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065662,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065663,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065664,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065665,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 17523480,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 17523478,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 17523475,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 17523474,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065640,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 17523476,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065643,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065644,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065642,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 17523473,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": true,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        }
+                    ],
+                    "imageId": null,
+                    "name": "Recommended",
+                    "perRow": 2,
+                    "subTitle": "",
+                    "type": "recommended",
+                    "widgets": null
+                },
+                {
+                    "collapsible": false,
+                    "entities": null,
+                    "imageId": null,
+                    "name": "Quick Bites",
+                    "perRow": 2,
+                    "subTitle": "",
+                    "type": "category",
+                    "widgets": [
+                        {
+                            "collapsible": true,
+                            "entities": [
+                                {
+                                    "id": 17523482,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                }
+                            ],
+                            "imageId": null,
+                            "name": "Dahi Waali Chaat",
+                            "perRow": null,
+                            "subTitle": null,
+                            "type": "subcategory",
+                            "widgets": null
+                        }
+                    ]
+                },
+                {
+                    "collapsible": false,
+                    "entities": [
+                        {
+                            "id": 35065647,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065648,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065649,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065661,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065646,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065650,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        }
+                    ],
+                    "imageId": null,
+                    "name": "Accompaniments",
+                    "perRow": 2,
+                    "subTitle": "",
+                    "type": "category",
+                    "widgets": null
+                },
+                {
+                    "collapsible": false,
+                    "entities": [
+                        {
+                            "id": 35065631,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065632,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        }
+                    ],
+                    "imageId": null,
+                    "name": "XL Combos",
+                    "perRow": 2,
+                    "subTitle": "",
+                    "type": "category",
+                    "widgets": null
+                },
+                {
+                    "collapsible": false,
+                    "entities": [
+                        {
+                            "id": 17523495,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 17523494,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065635,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065636,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065637,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065638,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065633,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065634,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065652,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065653,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065654,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065655,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065651,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065657,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065658,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065659,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065660,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        },
+                        {
+                            "id": 35065656,
+                            "imageId": null,
+                            "name": null,
+                            "showImg": false,
+                            "showRibbon": false,
+                            "subText": null,
+                            "text": null,
+                            "type": "item"
+                        }
+                    ],
+                    "imageId": null,
+                    "name": "Budget Combos",
+                    "perRow": 2,
+                    "subTitle": "",
+                    "type": "category",
+                    "widgets": null
+                },
+                {
+                    "collapsible": false,
+                    "entities": null,
+                    "imageId": null,
+                    "name": "Bombay Wali Chaat",
+                    "perRow": 2,
+                    "subTitle": "",
+                    "type": "category",
+                    "widgets": [
+                        {
+                            "collapsible": true,
+                            "entities": [
+                                {
+                                    "id": 35065668,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 17523489,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 35065666,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 17523485,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                }
+                            ],
+                            "imageId": null,
+                            "name": "Chai Ke Saath",
+                            "perRow": null,
+                            "subTitle": null,
+                            "type": "subcategory",
+                            "widgets": null
+                        }
+                    ]
+                },
+                {
+                    "collapsible": false,
+                    "entities": null,
+                    "imageId": null,
+                    "name": "Delhi wali Chaat",
+                    "perRow": 2,
+                    "subTitle": "",
+                    "type": "category",
+                    "widgets": [
+                        {
+                            "collapsible": true,
+                            "entities": [
+                                {
+                                    "id": 35065667,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 17523488,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 35065662,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 35065663,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 35065664,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 17523481,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 35065665,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 35065641,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 17523480,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 17523478,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 17523475,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 17523474,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 35065639,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 35065640,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 17523476,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 17523477,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 35065643,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                }
+                            ],
+                            "imageId": null,
+                            "name": "Chai Ke Saath",
+                            "perRow": null,
+                            "subTitle": null,
+                            "type": "subcategory",
+                            "widgets": null
+                        }
+                    ]
+                },
+                {
+                    "collapsible": false,
+                    "entities": null,
+                    "imageId": null,
+                    "name": "Snacks",
+                    "perRow": 2,
+                    "subTitle": "",
+                    "type": "category",
+                    "widgets": [
+                        {
+                            "collapsible": true,
+                            "entities": [
+                                {
+                                    "id": 35065644,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 35065645,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 35065642,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                },
+                                {
+                                    "id": 17523473,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                }
+                            ],
+                            "imageId": null,
+                            "name": "Chai Ke Saath",
+                            "perRow": null,
+                            "subTitle": null,
+                            "type": "subcategory",
+                            "widgets": null
+                        },
+                        {
+                            "collapsible": true,
+                            "entities": [
+                                {
+                                    "id": 23299391,
+                                    "imageId": null,
+                                    "name": null,
+                                    "showImg": false,
+                                    "showRibbon": false,
+                                    "subText": null,
+                                    "text": null,
+                                    "type": "item"
+                                }
+                            ],
+                            "imageId": null,
+                            "name": "Others",
+                            "perRow": null,
+                            "subTitle": null,
+                            "type": "subcategory",
+                            "widgets": null
+                        }
+                    ]
+                },
+                {
+                    "collapsible": false,
+                    "entities": [],
+                    "imageId": null,
+                    "name": "Want to repeat?",
+                    "perRow": 2,
+                    "subTitle": "",
+                    "type": "reorder",
+                    "widgets": null
+                }
+            ]
+        },
+        "menuTabs": [
+            {
+                "selected": true,
+                "title": "Order Now",
+                "type": "menu"
+            }
+        ],
+        "minimumOrder": 0,
+        "multiOutlet": false,
+        "name": "Chaat Street",
+        "newUserDefaultStr": null,
+        "opened": 1,
+        "parentId": 5635,
+        "preorderable": false,
+        "ratingDispositionsList": null,
+        "requestId": "eeb38018-4984-438f-9e1e-10d30aa3d3c0",
+        "restaurantAttributes": [
+            {
+                "description": null,
+                "iconImg": "HygieneVeryGoodWhite_pnkihk",
+                "type": "HYGIENE"
+            }
+        ],
+        "restaurantLicenses": [
+            {
+                "imageId": "fssai_final_edss9i",
+                "text": [
+                    "License No. 21218188000189"
+                ],
+                "type": "FSSAI"
+            }
+        ],
+        "restaurantServiceLine": [
+            "REGULAR"
+        ],
+        "restaurantSlug": {
+            "city": "bangalore",
+            "restaurant": "chopsticks-whitefield-whitefield"
+        },
+        "select": false,
+        "selectedPreOrderSlot": null,
+        "similarRestaurantAvailable": null,
+        "sla": null,
+        "slotInvalid": false,
+        "slug": "chopsticks-whitefield-whitefield",
+        "tags": null,
+        "takeawayInfo": null,
+        "textColor": null,
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": null,
+        "timeStamp": "1570805373750",
+        "totalRatings": 500,
+        "totalRatingsString": "500+ ratings",
+        "tradeCampaignHeaders": null,
+        "type": "F",
+        "userLastRatingDetails": null,
+        "uuid": "5a0eb5a6-be8b-4704-8692-9fc170735ea8",
+        "imageURL": "https://firebasestorage.googleapis.com/v0/b/swiggy-be.appspot.com/o/ptg02q5ysh5k6xc6dree.webp?alt=media&token=3fe20bf0-13bd-4a04-bcc7-2dc96bf5c9eb"
+    }
+}
