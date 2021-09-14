@@ -1,5 +1,6 @@
 import React from 'react';
 import { useEffect , useState } from 'react';
+import { act } from 'react-dom/test-utils';
 
 const Covid = () => {
     const [data,setData] = useState([]);
@@ -7,6 +8,7 @@ const getCovidData = async () => {
     try{
         const res = await fetch('https://data.covid19india.org/data.json');
         const actualData = await res.json();
+        
         setData(actualData.statewise[0]);
     } catch(err){
         console.log(err);
