@@ -1,4 +1,4 @@
-import { products } from "../../products";
+//import { products } from "../../products";
 import { ActionTypes } from "../contants/actiontypes";
 
 export const setProducts = (products) => {
