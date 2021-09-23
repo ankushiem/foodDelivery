@@ -27,3 +27,13 @@ code {
   border-radius: 6%;
   margin: 5%;
 }
+
+.container1{
+  position: relative;
+  margin-left: 3%;
+}
+
+.container2{
+  position: relative;
+  margin-left: 3%;
+}
