@@ -6,6 +6,8 @@ import { selectedProduct } from "../redux/actions/productActions";
 import Item from "./items";
 import reactDom from "react-dom";
 import {View} from 'react';
+import MenuItem from "./MenuItems";
+import { PaymentFooter } from "./PaymentFooter";
 
 const ProductDetails = () => {
     const product = useSelector((state) => state.product);
@@ -41,44 +43,44 @@ const ProductDetails = () => {
     Object.assign(destinationObj, menu.items);
     const key = Object.keys(destinationObj);
 
-    const iterate = key.map((currItem) => menu.items[currItem])
+    // const iterate = key.map((currItem) => menu.items[currItem])
 
-    let temp=[]
-    const result = iterate.reduce((acc,item) => {
-        if(temp.includes(item.category)){
-            let objIndex = acc.findIndex((obj => obj.category === item.category));
-            acc[objIndex].name = [...acc[objIndex].name,item.name];
-            acc[objIndex].price = [...acc[objIndex].price,item.price];
-        }else {
-            temp.push(item.category);
-            item.name = [item.name];
-            item.price = [item.price];
-            acc.push(item);
-        }
-        return acc;
-    },[])
-    const renderPriceList = (name,price) => {
-        return (
-            name.map((item,index) => 
-                <div>
-                    <p className="container1">{item} $ {price[index]}</p>
-                    <button className="container2" type="button"> Add</button>
-                </div>
-            )
+    // let temp=[]
+    // const result = iterate.reduce((acc,item) => {
+    //     if(temp.includes(item.category)){
+    //         let objIndex = acc.findIndex((obj => obj.category === item.category));
+    //         acc[objIndex].name = [...acc[objIndex].name,item.name];
+    //         acc[objIndex].price = [...acc[objIndex].price,item.price];
+    //     }else {
+    //         temp.push(item.category);
+    //         item.name = [item.name];
+    //         item.price = [item.price];
+    //         acc.push(item);
+    //     }
+    //     return acc;
+    // },[])
+    // const renderPriceList = (name,price) => {
+    //     return (
+    //         name.map((item,index) => 
+    //             <div>
+    //                 <p className="container1">{item} $ {price[index]}</p>
+    //                 <button className="container2" type="button"> Add</button>
+    //             </div>
+    //         )
 
-    )}
+    // )}
 
-    const render = result.map((currItem) => {
-        const {category , name, price} = currItem;
-        name.shift();
-        price.shift();
-        return(
-            <div className="container">
-                <h3 className="container1">{category}</h3>
-                {renderPriceList(name,price)}
-            </div>
-        )
-    })
+    // const render = result.map((currItem) => {
+    //     const {category , name, price} = currItem;
+    //     name.shift();
+    //     price.shift();
+    //     return(
+    //         <div className="container">
+    //             <h3 className="container1">{category}</h3>
+    //             {renderPriceList(name,price)}
+    //         </div>
+    //     )
+    // })
     
     return (
         <div className="container">
@@ -89,7 +91,14 @@ const ProductDetails = () => {
                 <div className="container1">
                     <h1 className="container1"> hello {area}</h1>
                     <h2 className="container1"> here {name} | {locality}</h2>
-                    {render}
+                    <ul>
+                        {
+                            key.map((item) => (
+                                <MenuItem key={menu.items[item].id} item={menu.items[item]}/>
+                            ))
+                        }
+                    </ul>
+                    <PaymentFooter/>
                 </div>
             )}
         </div>
